@@ -1,13 +1,9 @@
-Tentu, berikut adalah contoh penjelasan yang dapat dimasukkan ke dalam README GitHub untuk menjelaskan program Russian Peasant Multiplication beserta simbol-simbol pendukung:
-
----
-
 # Russian Peasant Multiplication
 
 ![Russian Peasant](https://img.shields.io/badge/Algorithm-Russian%20Peasant%20Multiplication-green)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue)
 
-## Deskripsi
+## Deskripsi 
 Russian Peasant Multiplication adalah sebuah algoritma kuno yang digunakan untuk mengalikan dua bilangan secara efisien dengan menggunakan pendekatan decrease-and-conquer. Algoritma ini terutama berguna dalam mengalikan bilangan besar menggunakan operasi penjumlahan dan pengurangan yang sederhana.
 
 ## Cara Kerja
@@ -51,10 +47,3 @@ a dibagi 2: 1, b dikalikan 2: 96
 
 - **Analisis Kasus Terbaik, Terburuk, dan Rata-rata:** Kompleksitas waktu dalam kasus terbaik, terburuk, dan rata-rata adalah `O(log n)`.
 
-## Referensi
-- [Wikipedia: Russian Peasant Multiplication](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication#Russian_peasant_multiplication)
-- [GeeksforGeeks: Russian Peasant Multiplication](https://www.geeksforgeeks.org/russian-peasant-multiplication/)
-
----
-
-Dengan penjelasan ini, pengguna akan memiliki pemahaman yang baik tentang apa itu algoritma Russian Peasant Multiplication, cara menggunakannya, dan analisis kebutuhan waktu algoritma tersebut.
